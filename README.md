@@ -1,4 +1,4 @@
-##  Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+##  Oi, eu sou a Maria Eduarda  estudante de Análise e Desenvolvimento de Sistemas!
 <div align="center">
   <a href="https://github.com/eduardarosado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardarosado&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
