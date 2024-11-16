@@ -24,6 +24,6 @@
 </p><br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maria-eduarda-r-319952173/"target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/mariaeduardarosado/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   
